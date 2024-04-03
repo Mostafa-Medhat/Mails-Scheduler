@@ -42,7 +42,7 @@ pip install datetime
 	"""
 	```
 
-	- Change/Remove Attached Files:
+	- Change/Remove Attached File:
 
 	If you want to attach a file, make sure the file exists in the same directory as the Python script.
 	Update the file path in the script accordingly.
